@@ -3,10 +3,10 @@
  *  头部CSS
  */
 :root {
-  --mio-main: 255, 255, 255;
-  --mio-text: 0, 0, 0;
-  --mio-primary: 100, 209, 226; /* 主题色 #64d1e2 偏蓝 */
-  --mio-primary50: 63, 194, 214;
+  --mio-main: 255, 240, 245; /* 淡粉，像 #fff0f5 */
+  --mio-text: 40, 0, 60; /* 深紫，适合文字，对比度好 */
+  --mio-primary: 200, 120, 255; /* 紫色偏粉 #c878ff */
+  --mio-primary50: 220, 160, 255; /* 稍浅一阶紫粉 #dca0ff */
   --mio-main-opacity: 0.3;
   --hope-colors-info9: rgba(var(--mio-primary), 1);
   --hope-colors-info4: rgba(var(--mio-primary), 1);
