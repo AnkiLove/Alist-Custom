@@ -23,6 +23,9 @@
 
 ## ✨ CSS 头部引用例子
 
-`<link href="https://cdn.jsdelivr.net/gh/AnkiLove/Alist-Custom@main/v3/css/index.min.css" rel="stylesheet" type="text/css" />`
+```html
+<link href="https://cdn.jsdelivr.net/gh/AnkiLove/Alist-Custom@main/v3/css/index.min.css" rel="stylesheet" type="text/css" />
+```
+
 
 
